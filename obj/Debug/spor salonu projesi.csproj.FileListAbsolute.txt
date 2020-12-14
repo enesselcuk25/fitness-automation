@@ -1,0 +1,60 @@
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\bin\Debug\spor salonu projesi.exe.config
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\bin\Debug\spor salonu projesi.exe
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\bin\Debug\spor salonu projesi.pdb
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.csprojAssemblyReference.cache
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.Form1.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.Giriş_sayfası.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.kayıt_sayfası.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.Properties.Resources.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.csproj.GenerateResource.cache
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.csproj.CoreCompileInputs.cache
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.exe
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.pdb
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.yöneticianamenu.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.şifrehatırlam.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.yöneticigiris.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.kullanıcıbilgileri.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.Ykullanıcıekle.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.kullanıcı_listele.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.yöneticikurs.resources
+D:\KODLAMA DERSLERİ\C# form projeleri\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.yöneticidiyet.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\bin\Debug\spor salonu projesi.exe.config
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\bin\Debug\spor salonu projesi.exe
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\bin\Debug\spor salonu projesi.pdb
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.csprojAssemblyReference.cache
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.yöneticidiyet.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.yöneticikurs.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.Form1.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.Giriş_sayfası.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.kayıt_sayfası.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.kullanıcı_listele.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.kullanıcıbilgileri.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.Properties.Resources.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.Ykullanıcıekle.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.yöneticianamenu.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.yöneticigiris.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor_salonu_projesi.şifrehatırlam.resources
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.csproj.GenerateResource.cache
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.csproj.CoreCompileInputs.cache
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.exe
+D:\Yeni klasör (3)\ödevler\programlama ödevi\final\spor salonu projesi\spor salonu projesi\obj\Debug\spor salonu projesi.pdb
+D:\masa üstü dosyalarım\spor salonu\bin\Debug\spor salonu projesi.exe.config
+D:\masa üstü dosyalarım\spor salonu\bin\Debug\spor salonu projesi.exe
+D:\masa üstü dosyalarım\spor salonu\bin\Debug\spor salonu projesi.pdb
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor salonu projesi.csprojAssemblyReference.cache
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.yöneticidiyet.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.yöneticikurs.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.Form1.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.Giriş_sayfası.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.kayıt_sayfası.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.kullanıcı_listele.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.kullanıcıbilgileri.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.Properties.Resources.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.Ykullanıcıekle.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.yöneticianamenu.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.yöneticigiris.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor_salonu_projesi.şifrehatırlam.resources
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor salonu projesi.csproj.GenerateResource.cache
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor salonu projesi.csproj.CoreCompileInputs.cache
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor salonu projesi.exe
+D:\masa üstü dosyalarım\spor salonu\obj\Debug\spor salonu projesi.pdb
